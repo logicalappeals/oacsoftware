@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Court on Office Automation Consultants</title>
+    <link>https://oacsoftware.com/tags/court/</link>
+    <description>Recent content in Court on Office Automation Consultants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://oacsoftware.com/tags/court/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Armed Services Board of Contract Appeals</title>
+      <link>https://oacsoftware.com/projects/armed-services-board-of-contract-appeals/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://oacsoftware.com/projects/armed-services-board-of-contract-appeals/</guid>
+      <description>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag(&#39;js&#39;, new Date()); gtag(&#39;config&#39;, &#39;UA-135442428-1&#39;);  Armed Services Board of Contract Appeals Project Overview: Office Automation Consultants, Inc. Automates The Armed Services Board of Contracts Appeals (&amp;ldquo;ASBCA&amp;rdquo;) Case Tracking Software</description>
+    </item>
+    
+    <item>
+      <title>United States Postal Service</title>
+      <link>https://oacsoftware.com/projects/usps/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://oacsoftware.com/projects/usps/</guid>
+      <description>  window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag(&#39;js&#39;, new Date()); gtag(&#39;config&#39;, &#39;UA-135442428-1&#39;);  Postal Service Board of Contract Appeals Decisions
+ Project Overview: Office Automation Consultants, Inc. Automates Postal Service Board of Contract Appeals Decisions (&amp;ldquo;USPSBCA&amp;rdquo;) Case Tracking Software
+ Functions Include:
+ Report Generation Document Generation Case Tracking  </description>
+    </item>
+    
+  </channel>
+</rss>
